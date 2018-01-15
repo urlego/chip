@@ -1,0 +1,154 @@
+".text.html.vue":
+  "css-bs":
+    "prefix": "css-bs",
+    "body": "<link href=\"//static.tcy365.com/cdn/bootstrap/3.3.7/custom/1.0.2/css/bootstrap.min.css\" rel=\"stylesheet\">\n<link href=\"//static.tcy365.com/cdn/bootstrap/3.3.7/custom/1.0.2/css/theme.css\" rel=\"stylesheet\">\n"
+  "css-jdpicker":
+    "prefix": "css-jdpicker",
+    "body": "<link rel=\"stylesheet\" href=\"//static.tcy365.com/cdn/component/jdpicker/2.2.0/jdpicker.css\"/>\n"
+  "css-minimsg":
+    "prefix": "css-minimsg",
+    "body": "<link rel=\"stylesheet\" href=\"//static.tcy365.com/cdn/component/miniMsg/1.6.3/src/css/minimsg.css\"/>\n"
+  "js-area":
+    "prefix": "js-area",
+    "body": "<script src=\"//static.tcy365.com/cdn/component/area/2.0.0/area.min.js\"></script>\n"
+  "js-bs":
+    "prefix": "js-bs",
+    "body": "<script src=\"//static.uc108.com/cdn/bootstrap/3.3.7/custom/js/bootstrap.min.js\"></script>\n"
+  "js-jdpicker":
+    "prefix": "js-jdpicker",
+    "body": "<script src=\"//static.tcy365.com/cdn/component/jdpicker/2.2.0/jdpicker.js\"></script>\n"
+  "js-jquery":
+    "prefix": "js-jquery",
+    "body": "<script src=\"//static.uc108.com/cdn/jquery/2.1.0/jquery.js\"></script>\n"
+  "js-minimsg":
+    "prefix": "js-minimsg",
+    "body": "<script src=\"//static.tcy365.com/cdn/component/miniMsg/1.6.3/src/js/miniMsg-umd.js\"></script>\n"
+  "js-popover":
+    "prefix": "js-popover",
+    "body": "<script src=\"//static.tcy365.com/cdn/component/popover-confirm/1.2.1/popover-confirm-umd.js\"></script>\n"
+  "js-webuploader":
+    "prefix": "js-webuploader",
+    "body": "<script src=\"//static.uc108.com/cdn/webuploader/0.1.6/webuploader.html5only.min.js\"></script>\n"
+  "bs-btn-primary":
+    "prefix": "bs-btn-primary",
+    "body": "<button type=\"button\" class=\"btn btn-sm btn-primary\"></button>\n"
+  "bs-btn-danger":
+    "prefix": "bs-btn-danger",
+    "body": "<button type=\"button\" class=\"btn btn-sm btn-danger\"></button>\n"
+  "bs-btn-default":
+    "prefix": "bs-btn-default",
+    "body": "<button type=\"button\" class=\"btn btn-sm btn-default\"></button>\n"
+  "bs-btn-success":
+    "prefix": "bs-btn-success",
+    "body": "<button type=\"button\" class=\"btn btn-sm btn-success\"></button>\n"
+  "bs-hform":
+    "prefix": "bs-hform",
+    "body": "<form class=\"form-horizontal\">\n\n</form>\n"
+  "bs-hform-checkbox":
+    "prefix": "bs-hform-checkbox",
+    "body": "<div class=\"form-group\">\n    <div class=\"col-sm-offset-2 col-sm-10\">\n        <div class=\"checkbox\">\n            <label>\n                <input type=\"checkbox\">\n            </label>\n        </div>\n    </div>\n</div>\n"
+  "bs-hform-radio":
+    "prefix": "bs-hform-radio",
+    "body": "<div class=\"form-group form-group-sm\">\n    <label class=\"control-label col-sm-3\">\n\n    </label>\n    <div class=\"col-sm-6\">\n        <div class=\"radio\">\n            <label>\n                <input type=\"radio\">\n            </label>\n        </div>\n    </div>\n</div>\n"
+  "bs-hform-input":
+    "prefix": "bs-hform-input",
+    "body": "<div class=\"form-group form-group-sm\">\n    <label class=\"control-label col-sm-3\">\n\n    </label>\n    <div class=\"col-sm-6\">\n        <input type=\"text\" class=\"form-control\">\n    </div>\n</div>\n"
+  "bs-hform-inputgroup":
+    "prefix": "bs-hform-inputgroup",
+    "body": "<div class=\"form-group form-group-sm\">\n    <label class=\"control-label col-sm-3\">\n\n    </label>\n    <div class=\"col-sm-6\">\n        <div class=\"input-group\">\n            <input type=\"text\" class=\"form-control\">\n            <span class=\"input-group-addon\">元</span>\n        </div>\n    </div>\n</div>\n"
+  "bs-must":
+    "prefix": "bs-must",
+    "body": "<i class=\"red\">*</i>\n"
+  "bs-panel-default":
+    "prefix": "bs-panel-default",
+    "body": "<div class=\"panel panel-default\">\n  <div class=\"panel-heading\">\n    <h3 class=\"panel-title\"></h3>\n  </div>\n  <div class=\"panel-body\">\n\n  </div>\n  <div class=\"panel-footer\">\n\n  </div>\n</div>\n"
+  "bs-modal":
+    "prefix": "bs-modal",
+    "body": "<div class=\"modal fade\" data-backdrop=\"static\">\n    <div class=\"modal-dialog\">\n        <div class=\"modal-content\">\n            <div class=\"modal-header\">\n                <button type=\"button\" class=\"close\" data-dismiss=\"modal\"><span>&times;</span></button>\n                <h4 class=\"modal-title\"></h4>\n            </div>\n            <div class=\"modal-body\">\n\n            </div>\n            <div class=\"modal-footer\">\n                <button type=\"button\" class=\"btn btn-default\" data-dismiss=\"modal\"></button>\n            </div>\n        </div>\n    </div>\n</div>\n"
+  "bs-dl":
+    "prefix": "bs-dl",
+    "body": "<dl class=\"dl-horizontal\">\n    <dt></dt>\n    <dd></dd>\n</dl>\n"
+  "bs-search":
+    "prefix": "bs-search",
+    "body": "<div class=\"well well-sm clearfix\">\n    <form action=\"javascript:;\" class=\"form-horizontal form-horizontal-sm\">\n        <div class=\"col-lg-11 col-sm-11 text-nowrap\">\n\n        </div>\n        <div class=\"col-lg-1 col-sm-1 text-right\">\n            <div class=\"form-group form-group-sm\">\n                <button type=\"submit\" class=\"btn btn-sm btn-primary\">\n                    <i class=\"glyphicon glyphicon-search\"></i>\n                    <i class=\"glyphicon glyphicon-refresh rotate\"></i>\n                    搜索\n                </button>\n            </div>\n        </div>\n    </form>\n</div>\n"
+  "bs-search-select":
+    "prefix": "bs-search-select",
+    "body": "<div class=\"col-lg-3 col-sm-4\">\n    <div class=\"form-group form-group-sm\">\n        <label class=\"col-sm-4 control-label\"></label>\n        <div class=\"col-sm-8\">\n            <select class=\"form-control\">\n                <option value=\"\"></option>\n            </select>\n        </div>\n    </div>\n</div>\n"
+  "bs-icon-arrow-down":
+    "prefix": "bs-icon-arrow-down",
+    "body": "<span class=\"glyphicon glyphicon-arrow-down\"></span>\n"
+  "bs-icon-ban-circle":
+    "prefix": "bs-icon-ban-circle",
+    "body": "<span class=\"glyphicon glyphicon-ban-circle\"></span>\n"
+  "bs-icon-edit":
+    "prefix": "bs-icon-edit",
+    "body": "<span class=\"glyphicon glyphicon-edit\"></span>\n"
+  "bs-icon-export":
+    "prefix": "bs-icon-export",
+    "body": "<span class=\"glyphicon glyphicon-export\"></span>\n"
+  "bs-icon-eye":
+    "prefix": "bs-icon-eye",
+    "body": "<i class=\"glyphicon glyphicon-eye\"></i>\n"
+  "bs-icon-eye-open":
+    "prefix": "bs-icon-eye-open",
+    "body": "<span class=\"glyphicon glyphicon-eye-open\"></span>\n"
+  "bs-icon-gift":
+    "prefix": "bs-icon-gift",
+    "body": "<span class=\"glyphicon glyphicon-gift\"></span>\n"
+  "bs-icon-import":
+    "prefix": "bs-icon-import",
+    "body": "<span class=\"glyphicon glyphicon-import\"></span>\n"
+  "bs-icon-info-sign":
+    "prefix": "bs-icon-info-sign",
+    "body": "<span class=\"glyphicon glyphicon-info-sign\"></span>\n"
+  "bs-icon-left":
+    "prefix": "bs-icon-left",
+    "body": "<span class=\"glyphicon glyphicon-arrow-left\"></span>\n"
+  "bs-icon-right":
+    "prefix": "bs-icon-right",
+    "body": "<span class=\"glyphicon glyphicon-arrow-right\"></span>\n"
+  "bs-icon-ok":
+    "prefix": "bs-icon-ok",
+    "body": "<span class=\"glyphicon glyphicon-ok\"></span>\n"
+  "bs-icon-ok-circle":
+    "prefix": "bs-icon-ok-circle",
+    "body": "<span class=\"glyphicon glyphicon-ok-circle\"></span>\n"
+  "bs-icon-ok-sign":
+    "prefix": "bs-icon-ok-sign",
+    "body": "<span class=\"glyphicon glyphicon-ok-sign\"></span>\n"
+  "bs-icon-pencil":
+    "prefix": "bs-icon-pencil",
+    "body": "<span class=\"glyphicon glyphicon-pencil\"></span>\n"
+  "bs-icon-plus":
+    "prefix": "bs-icon-plus",
+    "body": "<span class=\"glyphicon glyphicon-plus\"></span>\n"
+  "bs-icon-random":
+    "prefix": "bs-icon-random",
+    "body": "<span class=\"glyphicon glyphicon-eye-random\"></span>\n"
+  "bs-icon-refresh":
+    "prefix": "bs-icon-refresh",
+    "body": "<i class=\"glyphicon glyphicon-refresh\"></i>\n"
+  "bs-icon-remove":
+    "prefix": "bs-icon-remove",
+    "body": "<span class=\"glyphicon glyphicon-arrow-remove\"></span>\n"
+  "bs-icon-remove-sign":
+    "prefix": "bs-icon-remove-sign",
+    "body": "<span class=\"glyphicon glyphicon-remove-sign\"></span>\n"
+  "bs-icon-saved":
+    "prefix": "bs-icon-saved",
+    "body": "<span class=\"glyphicon glyphicon-saved\"></span>\n"
+  "bs-icon-search":
+    "prefix": "bs-icon-search",
+    "body": "<span class=\"glyphicon glyphicon-ban-search\"></span>\n"
+  "bs-icon-send":
+    "prefix": "bs-icon-send",
+    "body": "<span class=\"glyphicon glyphicon-send\"></span>\n"
+  "bs-icon-share-alt":
+    "prefix": "bs-icon-share-alt",
+    "body": "<span class=\"glyphicon glyphicon-share-alt\"></span>\n"
+  "bs-icon-th-list":
+    "prefix": "bs-icon-th-list",
+    "body": "<span class=\"glyphicon glyphicon-th-list\"></span>\n"
+  "bs-icon-trash":
+    "prefix": "bs-icon-trash",
+    "body": "<span class=\"glyphicon glyphicon-trash\"></span>\n"
